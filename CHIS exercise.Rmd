@@ -18,8 +18,9 @@ library(dplyr)
 library(ggthemes)
 ```
 
-## Script generalized into a function
+## Functions 
 ```{r functions}
+## Script generalized into a function
   mosaicGG <- function(data, X, FILL) {
   
 # Proportions in raw data
